@@ -3,7 +3,8 @@ This is application for multichoice question, written by Flutter for mobile, by 
 
 ## Screenshots
 
+![Screenshot 2023-09-22 103526](https://github.com/KazunguDev/MCQWeb/assets/88532016/dad9a1d9-47dd-4d30-84f1-89a6fc25310d)
 
-![Screenshot 2023-09-22 103526](https://github.com/KazunguDev/MCQWeb/assets/88532016/a9a92695-6918-4ace-be56-2ec7f4a34d57)
-![Screenshot 2023-09-22 103609](https://github.com/KazunguDev/MCQWeb/assets/88532016/0a423f51-5944-44b4-89cd-5a30250c56a7)
-![Screenshot 2023-09-22 103550](https://github.com/KazunguDev/MCQWeb/assets/88532016/a455f3d0-9b10-4ab9-80b1-387974a22500)
+![Screenshot 2023-09-22 103550](https://github.com/KazunguDev/MCQWeb/assets/88532016/61377fd0-207a-480f-a9f6-b3802402b25a)
+
+![Screenshot 2023-09-22 103609](https://github.com/KazunguDev/MCQWeb/assets/88532016/eef491aa-da09-4f5f-8a90-e27b085cd15b)
